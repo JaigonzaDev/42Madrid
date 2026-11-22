@@ -1,7 +1,7 @@
 BIN = 01
 COMP = c++
 CFLAGS = -Wall -Werror -Wextra -std=c++98 -g
-SRCS = main.cpp Bureaucrat.cpp
+SRCS = main.cpp Bureaucrat.cpp Form.cpp
 
 all: $(BIN)
 
